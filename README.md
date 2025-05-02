@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Christian Clayton
 
-<!--
-**ChrisClay11/ChrisClay11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying **Web Development and Digital Media**, with a passion for **creative coding** and **user-centered design**. I run my own **real estate media and drone company**, where I bring properties to life through high-quality photography and videography.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+- HTML5, CSS3, JavaScript
+- Git & GitHub
+- Adobe Photoshop & Premiere Pro
+- UX/UI Design Principles
+
+---
+
+## 🌐 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/christian-clayton-5b64bb2b5/)
+
+---
+
+## 📊 GitHub Stats
+
+![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisClay11&show_icons=true&theme=default)
